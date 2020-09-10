@@ -1,3 +1,3 @@
-WE are learning about coding
+WE are learning about vi
 
 Important to READ
