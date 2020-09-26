@@ -1,3 +1,3 @@
-Starting git 
+# Starting git 
 
-Read the steps carefully!
+* Read the steps carefully!
