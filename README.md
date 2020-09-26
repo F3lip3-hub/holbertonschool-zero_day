@@ -1,2 +1,2 @@
-Creating setup for Github
-Teamwork is dreamwork
+## Creating setup for Github
+* Teamwork is the dreamwork
